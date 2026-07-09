@@ -155,9 +155,9 @@ ul{
     transition:.3s;
 }
 
-/* .brand-card:hover{
+.brand-card:hover{
     transform:translateY(-8px);
-} */
+}
 
 .brand-card i{
     font-size:45px;
